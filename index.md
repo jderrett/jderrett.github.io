@@ -1,3 +1,5 @@
 # Jason Derrett
 
-## [Twitter](https://twitter.com/jdirt)
+[GitHub](https://github.com/jderrett)
+
+[Work](https://aws.amazon.com/)
